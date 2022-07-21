@@ -4,4 +4,4 @@
 
 ## My personal website
 
-[dalefrench.dev](https://dalefrench.dev)
+[See portfolio here](https://hari01584.github.io/portfolio/)
